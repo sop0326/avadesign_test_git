@@ -41,7 +41,7 @@
 #include "vad.h"
 #include "dtx.h"
 #include "sid.h"
-ttest
+sop
 /*-----------------------------------------------------------*
  *    Coder constant parameters (defined in "ld8a.h")        *
  *-----------------------------------------------------------*
